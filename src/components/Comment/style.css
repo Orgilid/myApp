@@ -1,0 +1,26 @@
+.Comment {
+  margin: 20px;
+}
+
+.CommentText {
+  display: block;
+  min-height: 30px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #333;
+}
+
+.CommentInput {
+  width: 300px;
+  height: 100px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  resize: vertical;
+}
+
+.CommentInput:focus {
+  border-color: #2bac73;
+  outline: none;
+}

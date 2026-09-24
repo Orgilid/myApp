@@ -1,0 +1,12 @@
+.MyButton {
+  background-color: #2bac73;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.MyButton:hover {
+  opacity: 0.8;
+}
